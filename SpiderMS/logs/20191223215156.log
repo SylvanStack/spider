@@ -1,0 +1,4 @@
+INFO - 2019-12-23 21:52:02,198 - process: 1608 - scheduler.py - gerapy.server.core.scheduler - 102 - scheduler - successfully synced task with jobs
+INFO - 2019-12-23 22:01:13,701 - process: 1608 - build.py - gerapy.server.core.build - 24 - build - successfully build project httpbin to egg file D:\OpenSource\spider\SpiderMS\projects\httpbin\httpbin-1.0-py3.7.egg
+INFO - 2019-12-23 22:22:43,059 - process: 1608 - build.py - gerapy.server.core.build - 24 - build - successfully build project httpbin to egg file D:\OpenSource\spider\SpiderMS\projects\httpbin\httpbin-1.0-py3.7.egg
+INFO - 2019-12-23 22:48:04,486 - process: 1608 - build.py - gerapy.server.core.build - 24 - build - successfully build project httpbin to egg file D:\OpenSource\spider\SpiderMS\projects\httpbin\httpbin-1.0-py3.7.egg

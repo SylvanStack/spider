@@ -1,0 +1,13 @@
+setup.py
+httpbin/__init__.py
+httpbin/items.py
+httpbin/middlewares.py
+httpbin/pipelines.py
+httpbin/settings.py
+httpbin.egg-info/PKG-INFO
+httpbin.egg-info/SOURCES.txt
+httpbin.egg-info/dependency_links.txt
+httpbin.egg-info/entry_points.txt
+httpbin.egg-info/top_level.txt
+httpbin/spiders/__init__.py
+httpbin/spiders/myspider.py
