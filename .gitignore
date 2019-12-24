@@ -1,1 +1,9 @@
 .idea
+自动签到
+data
+*.vscode
+*.pyc
+*.db
+.log
+
+
